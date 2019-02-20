@@ -1,6 +1,6 @@
 
 var list = document.createElement("ul");
-var e = document.getElementByTagName("body");
+var e = document.getElementsByTagName("body");
 e.appendChild(list);
 
 var listelement = document.createElement("li");
