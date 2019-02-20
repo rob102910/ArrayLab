@@ -1,4 +1,3 @@
-var L= ["dog","cat","Hippo","Bat","Alligator", "Lion"];
 
 var list = document.createElement("ul");
 var e = document.getElementByTagName("body");
